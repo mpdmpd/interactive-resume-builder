@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-Простое веб-приложение для создания профессиональных резюме.
+Многостраничный сайт для создания профессиональных резюме.
 
 ## Особенности
 
@@ -12,9 +12,9 @@
 
 ## Технологии
 
-- Next.js
+- Next.js v15
 - TypeScript
-- Tailwind CSS
+- Tailwind CSS v4
 
 ## Установка
 
